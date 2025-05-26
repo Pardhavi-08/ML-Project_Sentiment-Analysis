@@ -63,5 +63,4 @@ Technologies Used
 5. Joblib/Pickle 
 
 License:
-
 This project is open-source and available under the MIT License.
