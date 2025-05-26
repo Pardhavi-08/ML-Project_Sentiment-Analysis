@@ -62,5 +62,6 @@ Technologies Used
 4. Numpy 
 5. Joblib/Pickle 
 
-License
+License:
+
 This project is open-source and available under the MIT License.
